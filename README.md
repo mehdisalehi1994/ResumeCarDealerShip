@@ -83,3 +83,88 @@
 پیاده‌سازی استاندارد با Bootstrap 4
 
 و نشان‌دهنده سطح پیشرفته‌تر مهارت‌های فرانت‌اند من نسبت به پروژه‌های قبلی است.
+
+Project Four: Automotive
+
+Project Introduction – Car Dealership Website
+
+This project is a static website designed to showcase luxury cars and related services, such as sales and maintenance. It has been developed as one of the more advanced projects in my front-end development journey.
+
+The main goal of the project was to simulate a professional website with a strong focus on UI/UX, user experience, and advanced visual interactions.
+
+Features and Technical Implementation
+
+Page Loading (Preloader)
+A professional initial loading experience for users, ensuring smooth and polished transitions while background elements and videos are being prepared.
+
+Hamburger Menu
+For smaller devices, the navigation menu collapses into a hamburger menu, providing easy access to all sections of the site, along with open/close animations.
+
+Video and Prompt-Engineered Backgrounds
+High-quality professional videos and images for the background, designed using prompt engineering techniques, creating a realistic and visually appealing experience.
+
+Professional Responsiveness (Mobile, Tablet, Desktop)
+The website is fully responsive, including:
+
+Layout adjustments for different sections
+
+Font size and spacing changes
+
+Consistent user experience across all devices
+
+Use of Bootstrap 4
+All CSS has been designed and implemented using Bootstrap 4, ensuring that grids, forms, navigation, and buttons follow professional standards.
+
+CSS Animations and Interactions
+
+Engaging animations for images and key page elements
+
+Button and car card hover animations for a dynamic user experience
+
+The hero section features professional animations to capture user attention
+
+Segmented and User-Friendly Structure
+Includes sections such as:
+
+Car Inventory
+
+Features / Services
+
+Image Gallery
+
+Testimonials
+
+Contact form and quick links
+
+Standard Visual Design and Content Hierarchy
+Maintains typographic hierarchy, proper spacing, and focus on content readability for professional users and potential customers.
+
+Project Significance in Growth Path
+
+Compared to previous projects, this project demonstrates a higher level of front-end design skills, showcasing my ability to:
+
+Create responsive and interactive pages
+
+Implement animations and hover interactions
+
+Design a professional hamburger menu for mobile devices
+
+Manage complex multimedia elements (background videos and images)
+
+Implement standards using Bootstrap 4
+
+This project clearly reflects my progression from a simple project to designs closer to real-world web standards.
+
+Conclusion
+
+The ResumeCarDealership website highlights my ability to:
+
+Design and implement static, responsive web pages
+
+Create a professional user experience with CSS animations and interactions
+
+Use high-quality background images and videos
+
+Implement standards with Bootstrap 4
+
+It represents a more advanced level of my front-end skills compared to previous projects.
